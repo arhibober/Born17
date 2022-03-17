@@ -1,0 +1,31 @@
+ {
+            "id":"100",
+            "leftTopX":"0.21143",
+            "leftTopY":"0.39140",
+            "rightBottomX":"0.50143",
+            "rightBottomY":"0.86237",
+            "item_id":1,
+            "creator_id":"1447",
+            "item_url":"JavaScript: alert('здесь может быть переход на страницу Татьяны Сидоровой')",
+            "item_title":"Татьяна Сидорова"
+        }, {
+            "id":"101",
+            "leftTopX":"0.37714",
+            "leftTopY":"0.03226",
+            "rightBottomX":"0.71429",
+            "rightBottomY":"0.59570",
+            "item_id":2,
+            "creator_id":"1447",
+            "item_url":"JavaScript: alert('здесь может быть переход на страницу Петра Иванова')",
+            "item_title":"Петр Иванов"
+        }, {
+            "id":"102",
+            "leftTopX":"0.19429",
+            "leftTopY":"0.18710",
+            "rightBottomX":"0.35000",
+            "rightBottomY":"0.36989",
+            "item_id":0,
+            "creator_id":"1447",
+            "item_url":"",
+            "item_title":"Рожки"
+            }

@@ -1,0 +1,96 @@
+table
+{
+  padding: 20px;	
+}
+
+a
+{
+  text-decoration: none;
+  color: #804040;
+}
+
+a:hover
+{
+  text-decoration: underline;
+}
+
+h1, h2, h3, h4, h5, h6, p, div
+{
+  text-align: center;
+}
+
+body
+{
+  background-color: tan;
+  color: #804040;
+  font-family: arial;
+}
+
+table, input[type="submit"], input[type="file"], button 
+{
+  border: #804040 1px solid;
+  bordercolor: #804040;
+  background-color: #fffddd;
+  cellpadding: 5;
+  border-radius: 15px;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+}
+
+.leave
+{
+  height: 100px;
+  width: 100px;
+  padding: 0px; 
+}
+
+.leave p
+{
+  font-size: bold; 
+}
+
+.menu
+{
+  width: 100%;
+  height: 140px;
+  valing: middle;
+  padding: 10px;
+}
+
+.photo-list
+{
+  width: 900px;
+  border: 0;
+}
+
+.photo-link
+{
+  width: 200px;
+  height: 200px;
+}
+
+#edit tr td
+{
+  padding: 20px;
+}
+
+select
+{
+	border: 1px solid rgb(204, 204, 204);
+	background-color: transparent;
+	border-radius: 3px;
+}
+
+textarea[name="bio"]
+{
+	visibility: visible !important;
+}
+
+#main-table
+{
+	border: 0;
+	width: 1080px;
+	background-color: tan;
+	text-align: center;
+	margin: 0 auto;
+}
